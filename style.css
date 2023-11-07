@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.dear10{
+    margin-left: 10rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    font-size: 3rem;
+}
